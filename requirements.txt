@@ -1,0 +1,9 @@
+# Auction Platform Dependencies
+# Currently no external dependencies - uses only Python stdlib
+# Python 3.8+
+
+# Future dependencies:
+# django==4.2.0  # For web framework
+# sqlalchemy==2.0.0  # For ORM
+# python-dotenv==1.0.0  # For environment variables
+# pytest==7.3.0  # For testing
